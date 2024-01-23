@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+ margin:20px;
+padding: 10px;
+    background-color: #b3d4fc;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 40px;
+    display: block;
+    text-decoration: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-family: Z003;
+    font-size: 40px;
+}
+li a:hover{
+            background-color:blueviolet;
+        }
